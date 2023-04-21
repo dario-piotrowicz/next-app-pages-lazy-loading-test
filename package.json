@@ -36,7 +36,8 @@
     "zod": "^3.21.4"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "../../../next-on-pages",
+    "@cloudflare/next-on-pages": "https://prerelease-registry.devprod.cloudflare.dev/next-on-pages/runs/4763969048/npm-package-next-on-pages-191",
+    "wrangler": "https://prerelease-registry.devprod.cloudflare.dev/workers-sdk/runs/4760166529/npm-package-wrangler-2966",
     "@types/dedent": "^0.7.0",
     "@types/dinero.js": "^1.9.0",
     "@types/marked": "^4.0.8",
